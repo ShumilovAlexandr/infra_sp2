@@ -79,3 +79,9 @@ DATABASES = {
 Остановить работу контейнеров можно командой 
 
 1. docker-compose down -v
+
+#### Лицензия и автор:
+
+BSD 3-Clause License
+
+Copyright (c) 2022, ShumilovAlexandr
